@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahsan</h1>
 <h3 align="center">A passionate Full Stack Java developer from India.</h3>
 
-- 🔭 I’m currently working on **Trend Shop**
+- 🔭 I’m currently working on **Trend Shop (e-commerce project)**
 
 - 🌱 I’m currently learning **Spring boot**
 
