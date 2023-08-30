@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Trend Shop (e-commerce website)**
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻My Portfolio Link : [https://md-ahsan-portfolio.netlify.app/](https://md-ahsan-portfolio.netlify.app/)
 
