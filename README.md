@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Project**.
 
-- 🧭 I love exploring and working both in frontend and backend.
+- 🧭 I love exploring and working both in frontend and backend
 
 - 👨‍💻My Portfolio Link : [https://md-ahsan-portfolio.netlify.app/](https://md-ahsan-portfolio.netlify.app/)
 
