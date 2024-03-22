@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahsan</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 
+- 🔭 I’m currently learning **TypeScript**.
+  
 - 🔭 I’m currently working on **Full Stack Project**.
 
 - 🧭 I love exploring and working both in frontend and backend
