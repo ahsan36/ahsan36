@@ -7,7 +7,7 @@
 
 - 🧭 I love exploring and working both in frontend and backend
 
-- 👨‍💻My Portfolio Link :[(https://mdahsan.netlify.app/)]
+- 👨‍💻My Portfolio Link : https://mdahsan.netlify.app/
 
 - 📫You can reach me at **ahsaninfo1@gmail.com**
 
