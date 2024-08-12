@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahsan</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
   
-- 🔭 I’m currently working on **Full Stack Project**.
+- 🔭 I’m currently **Looking for opportunity**.
 
 - 🧭 I love exploring and working both in frontend and backend
+  
+-  💬 Ask me about **JavaScript, React, Redux, node.js, Express.js**
+ 
+- 📝 I write articles on https://medium.com/@ahsaninfo1
 
 - 👨‍💻My Portfolio Link : https://mdahsan.netlify.app/
 
