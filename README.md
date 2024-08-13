@@ -7,7 +7,7 @@
   
 -  💬 Ask me about **JavaScript, React, node.js, Express.js, Problem Solving**
  
-- 📝 I write articles on **Medium[https://medium.com/@ahsaninfo1]**
+- 📝 I write articles on [Medium](https://medium.com/@ahsaninfo1)
 
 - 👨‍💻My Portfolio Link : https://mdahsan.netlify.app/
 
