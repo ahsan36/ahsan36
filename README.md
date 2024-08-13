@@ -5,9 +5,9 @@
 
 - 🧭 I love exploring and working both in frontend and backend
   
--  💬 Ask me about **JavaScript, React, Redux, node.js, Express.js**
+-  💬 Ask me about **JavaScript, React, node.js, Express.js, Problem Solving**
  
-- 📝 I write articles on https://medium.com/@ahsaninfo1
+- 📝 I write articles on **Medium[https://medium.com/@ahsaninfo1]**
 
 - 👨‍💻My Portfolio Link : https://mdahsan.netlify.app/
 
